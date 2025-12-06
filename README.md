@@ -33,19 +33,13 @@ Men dizaynlarni piksel–aniq qilib qayta yarataman, animatsiyalar, murakkab kom
 
 ---
 
-## 📊 GitHub Statistikam
 
-![Humoyun’s GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight)
-
-> **USERNAME** joyiga GitHubdagi usernamenizni qo‘ying.
 
 ---
 
 ## 📬 Muloqot uchun
-- **Telegram:** @yourTelegram
-- **Email:** yourmail@example.com
+- **Telegram:** @Qoraqoww
+- **Email:** xumoyunnasriddinov174@gmail.com
 
 ---
 
